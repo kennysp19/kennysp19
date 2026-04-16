@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
 -[Active Directory Home Lab]
-<br/>-[SOC Analyst Home Lab]
+<br/>-[SIEM Implementation: Log Ingestion, Monitoring, and Detection]
 
 
 <h2> :mortar_board: Certifications:</h2>
