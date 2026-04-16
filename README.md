@@ -6,7 +6,7 @@
 <br/>-[SOC Analyst Home Lab]
 
 
-<h2>Certifications:</h2>
+<h2> :mortar_board: Certifications:</h2>
 -Comptia Security+ (In Progress - Expected:07/2026)
 
 
