@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects & Labs:</h2>
 
--[Active Directory Home Lab](https://github.com/kennysp19/Active-Directory-Home-Lab/tree/main)<br/>
--[osTicket with AD Home Lab](https://github.com/kennysp19/osTicket-with-AD-Home-Lab)<br/>
 -[siem-monitor](https://github.com/kennysp19/siem-monitor)<br/>
 -[vuln-tracker](https://github.com/kennysp19/vuln-tracker)
+-[Active Directory Home Lab](https://github.com/kennysp19/Active-Directory-Home-Lab/tree/main)<br/>
+-[osTicket with AD Home Lab](https://github.com/kennysp19/osTicket-with-AD-Home-Lab)<br/>
 
 
 <h2> :mortar_board: Certifications:</h2>
