@@ -10,7 +10,7 @@
 
 
 <h2> :mortar_board: Certifications:</h2>
--Comptia Security+ (In Progress - Expected:07/2026)
+-Comptia Security+ (10/2026)
 
 
 <h2> 🤳 Connect with me:</h2>
